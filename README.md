@@ -1,4 +1,4 @@
-<h2 align="center">•Lista de ATIVIDADES</h2></h2>
+<h2 align="center">•Lista de Atividades•</h2></h2>
 
 <details>
   Detalhes.
