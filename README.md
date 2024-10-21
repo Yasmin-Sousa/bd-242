@@ -1,4 +1,4 @@
-<h2 align="center">•Lista das ATIVIDADES</h2></h2>
+<h2 align="center">•Lista de ATIVIDADES</h2></h2>
 
 <details>
   Detalhes.
@@ -11,7 +11,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Atividade 02
+  •Atividade_02
   
 </Summary>
 </details>
@@ -19,7 +19,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Atividade 03 
+  •Atividade_03 
   
 </Summary>
 </details>
@@ -27,7 +27,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Atividade 04 
+  •Atividade_04 
   
 </Summary>
 </details>
@@ -35,7 +35,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Atividade 05 
+  •Atividade_05 
   
 </Summary>
 </details>
@@ -43,7 +43,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Atividade 06 
+  •Atividade_06 
   
 </Summary>
 </details>
@@ -51,14 +51,14 @@
 <details>
  Detalhes.
 <Summary>
-  •Atividade 07 
+  •Atividade_07 
   
 </Summary>
 </details>
 <details>
   Detalhes.
 <Summary>
-  •Atividade 08
+  •Atividade_08
   
 </Summary>
 </details>
@@ -66,14 +66,14 @@
 <details>
   Detalhes.
 <Summary>
-  •Atividade 09 
+  •Atividade_09 
   
 </Summary>
 </details>
 <details>
   Detalhes.
 <Summary>
-  •Atividade 10 
+  •Atividade_10 
   
 </Summary>
 </details>
