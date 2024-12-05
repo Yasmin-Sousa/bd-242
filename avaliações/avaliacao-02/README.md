@@ -1,3 +1,4 @@
+
 @startuml
 entity TB_MEDIA_TYPES{
 *MediaTypeId:INTEGER
